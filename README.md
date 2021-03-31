@@ -1,5 +1,9 @@
 # imobiliaria
 
+#ambiente
+
+Windows com apache por meio do XAMP
+
 # backend
 
 Backend implementado em php na versão 8.0.3, banco maria 10.4.18 por meio do XAMP
